@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "zappy_test": {
-      "commandName": "Project",
-      "commandLineArgs": "-p 4242 -n toto -h localhost"
-    }
-  }
-}
